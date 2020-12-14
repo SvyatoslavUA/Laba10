@@ -1,0 +1,5 @@
+﻿E:\visual\v\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laba10.11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Sviatoslav\source\repos\Laba10.1\Laba10.11\Source.cpp(25,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sviatoslav\source\repos\Laba10.1\Laba10.11\Source.cpp(36): warning C4715: 'GetThirdComma': not all control paths return a value
+  Laba10.11.vcxproj -> C:\Users\Sviatoslav\source\repos\Laba10.1\Debug\Laba10.1.exe

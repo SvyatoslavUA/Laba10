@@ -1,0 +1,4 @@
+﻿  Laba10.1UnitTest.cpp
+C:\Users\Sviatoslav\source\repos\Laba10.1\Laba10.11\Source.cpp(25,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sviatoslav\source\repos\Laba10.1\Laba10.11\Source.cpp(36): warning C4715: 'GetThirdComma': not all control paths return a value
+  Laba10.1UnitTest.vcxproj -> C:\Users\Sviatoslav\source\repos\Laba10.1\Debug\Laba10.1UnitTest.dll

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Sviatoslav\source\repos\Laba10.2\Laba10.2\Source.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sviatoslav\source\repos\Laba10.2\Laba10.2\Source.cpp(38,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sviatoslav\source\repos\Laba10.2\Laba10.2\Source.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sviatoslav\source\repos\Laba10.2\Laba10.2\Source.cpp(101,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sviatoslav\source\repos\Laba10.2\Laba10.2\Source.cpp(30): warning C4715: 'GetOpenBrecketIndex': not all control paths return a value
+C:\Users\Sviatoslav\source\repos\Laba10.2\Laba10.2\Source.cpp(44): warning C4715: 'GetCloseBrecketIndex': not all control paths return a value
+  Laba10.2.vcxproj -> C:\Users\Sviatoslav\source\repos\Laba10.2\Debug\Laba10.2.exe
